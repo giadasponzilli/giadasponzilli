@@ -8,8 +8,8 @@
 
 
 ## 💫 About Me:
-As an aspiring front-end web developer based in the UK, with a background in cinematography and photography, I bring a unique blend of creativity and technical expertise to my projects. My experience working on set with various departments has honed my teamwork and problem-solving skills.
-I've recently completed the EdX Front-end Web Development Bootcamp and I'm excited to embark on a new journey in the coding field. I'm proficient in JavaScript, React, Node.js, APIs, Bootstrap, and more.
+As an aspiring Front-End Web developer based in the UK, with a background in cinematography and photography, I bring a unique blend of creativity and technical expertise to my projects. My experience working on set with various departments has honed my teamwork and problem-solving skills.
+I've recently completed the EdX Front-end Web Development Bootcamp and I'm excited to embark on a new journey in the coding field.
 
 ---
 
