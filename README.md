@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Ask me about HTML5, CSS, Bootstrap, Javascript, JQuery, SASS, GitHub, Node.js, React, API.
+- 🔭 Ask me about HTML5, CSS, SASS, Bootstrap, Javascript, JSON, JQuery, GitHub, Node.js, React, API.
 - 🌱 I've recently completed the EdX Front-end Web Development Bootcamp.
 - 📫 How to reach me: sponzilli.g@gmail.com
 - 😄 Pronouns: She/her
